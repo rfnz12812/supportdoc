@@ -1,0 +1,55 @@
+<?php // Script 8.4 - ITTEAM.php
+/* This is the home page for this site. 
+It uses templates to create the layout. */
+
+// Include the header:
+include('templates/header.html');
+// Leave the PHP section to display lots of HTML:
+?>
+<div class="container myscroll">
+   <div class="text-center">
+   
+   <h1 class="center">ITTEAM MEMBER INFORMATION</h1><br>
+   
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+<h2 class="nav-left">Members:       		e-mail</h2><br>			
+<p>Rich Fortner				rfnz12812@sssnet.com	   chairman</p><br>
+<p>Fred Robbison	     		rhino60@sssnet.com		worship</p><br>
+<p>Comparda						Office Assistant	 		office		330-830-6476	Cell		330-495-9993</p><br>
+<p>Shelly Salewsky			Office Admin				office		330-830-6476   Cell 		330-936-7597</p><br>
+
+   </div>
+</div>
+ 
+<?php // Return to PHP.
+   include('templates/footer.html'); // Include the footer.
+?>

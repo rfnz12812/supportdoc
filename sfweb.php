@@ -1,0 +1,73 @@
+<?php // Script 8.4 sfweb.php
+/* This is the home page for this site. 
+It uses templates to create the layout. */
+
+// Include the header:
+include('templates/header.html');
+// Leave the PHP section to display lots of HTML:
+?>
+<div class="container">
+   <div class="text-left">
+   
+   <h1 class="center">ShareFaith Web Hosting Information</h1><br>
+  
+
+<h2 id='webhost' class="myscroll">NEW SHAREFAITH WEB HOSTING COMPANY</h2>
+Initial setup website</br>
+website URL admin	 www.fcfellowship.org/hp_wordpress/wp-login.php</br>
+support			support.sharefaith.com</br>
+fcf support info		rfnz12812@sssnet.com	</br>
+			qaplzmzz08</br>
+Admin	 website administration</br>
+	user name 		admin</br>
+	pw			 Pwfcfweb1303**</br>
+<h2 id='webhost' class="myscroll">Images</h2>
+user name 			fcfellowship.orgadmin</br>
+	pw					Pwjoytotheworld</br>
+</br>
+<h2 id='webhost' class="myscroll"> class"Sharefaith images</h2>
+	user name		fcfellowship.org</br>
+	pw			      Pwjoytotheworld</br>
+	user name		Fred</br>
+	pw			      4yourglorylord</br>
+<h2 id='webhost' class="myscroll">Rich Fortner  support</h2>
+	user name		rfortner</br>
+	pw			      QQ128rfnz!</br>
+<h2 id='webhost' class="myscroll">	Website Control panel</h2>
+<p>cp.sharefaithwebsites.net/psoft/servlet/psoft.hsphere.CP</p>
+<p>	Account Maintenance</p>
+	user name		s316637</br>
+	pw		      	r6Gyer4M  </br>
+	FTP access</br>
+	user name		s316637</br>
+	pw			r6Gyer4M1234  </br>
+Renew by May 9, 2017</br>
+support 1888-317-4018 </br>
+<h2 id='webhost' class="myscroll">WEB HOSTING SERVICES: </h2>
+E-mail accounts 2000MB  </br>
+	fcf@fcfellowship.org		ScHome1303000</br>
+	it_team@fcfellowship.org	Rfteam03</br>
+	Ssalewsky@fcfellowship.org	Ssfcf1303111</br>
+   Mail Client Config  Outlook</br>
+   Incoming POP3 Server		mail.fcfellowship.org</br>
+   port 110</br>
+   Outgoing (SMTP) Server	mail.fcfellowship.org	 </br>
+   port 587 if ISP is blocking port 25 </br>
+   Outgoing (SMTP) Server	mailout.sssnet.com	ISP</br>
+   port 587  if ISP is  blocking  port 25</br>
+<h2 id='webhost' class="myscroll"> SSSNET email  (not using SSSNET for email at the present time - may use in the future)</h2>
+fcf@sssnet.com			   ScHome1303000</br>
+it_team@sssnet.com		Rffcf1303999</br>
+Ssalewsky@sssnet.com		Ssfcf1303111</br>
+Incoming POP3 Server		mail.sssnet.com</br>
+port 110</br>
+Outgoing (SMTP) Server	mailout.sssnet.com	 </br>
+port 587 if ISP is blocking port 25 </br>
+</br>
+</p>
+   </div>
+</div>
+ 
+<?php // Return to PHP.
+   include('templates/footer.html'); // Include the footer.
+?>

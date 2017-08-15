@@ -1,0 +1,10 @@
+		
+ <div id=footer class="text-center">
+  <footer class="Footer">
+  	 <p> Design uses <a href="http://www.w3schools.com/default.asp">Bootstrap CSS Framework</a></p>
+  </footer>
+ </div> 
+
+ 
+</body>
+</html>

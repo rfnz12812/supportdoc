@@ -1,0 +1,41 @@
+c#footer {
+	position: fixed;
+	bottom: 0;
+   width:100%;
+   height:20px;   /* Height of the footer */
+   background:#6cf;
+   border-top: 5px;
+}   
+.left {
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+.main {
+    float: left;
+    height: 100%;
+    width: 75%;
+}
+h1 {
+	margin: 75px 50px 10px 0;
+	text-align: center;
+}
+h2 {
+	margin: 100px 0 10px 0;
+	text-align: center;
+}
+#dir { 
+	padding: 1px;
+	margin-bottom: -20px;
+	margin-top: -20px;
+ }
+#webhost {
+	margin-top: 5px;
+	margin-bottom: 5px; 
+}
+.text-left#webdefdiv {
+	background-color: lightgrey;
+}
+#pcosrecover {
+   margin-top: 20px;
+}

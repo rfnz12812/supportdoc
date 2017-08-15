@@ -1,0 +1,30 @@
+<?php
+session_start();
+echo 'Welcome '. $_SESSION["user"];
+//If session is not set
+if(!isset($_SESSION['user']))
+{ 
+header("location:main_logon.php");
+}
+?>
+ 
+<html>
+<body>
+You Have Successfully Logged In.<br />
+ 
+<a href="logout.php">Log Out </a></body>
+</html>
+ 
+ 
+<!-- ———————————————————————–
+Create file logout.php
+ 
+———————————————————————– -->
+ 
+<?php
+session_start();
+//Remove all sessions and redirect to login page
+session_destroy();
+header("location:index.php");
+?>
+
